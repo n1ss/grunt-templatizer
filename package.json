@@ -1,5 +1,5 @@
 {
-  "name": "grunt-templatizer",
+  "name": "grunt-templatizer-test",
   "description": "Grunt plugin for Henrik Jotereg's templatizer",
   "version": "0.0.1",
   "homepage": "https://github.com/n1ss/grunt-templatizer",

@@ -11,7 +11,7 @@ module.exports = function(grunt) {
             expand: true,
             cwd: 'test',
             src: ['**/*.jade'],
-            dest: 'test/result', 
+            dest: 'test', 
             ext: '.js'
         }]
       }
